@@ -64,7 +64,7 @@ model = load_model('personal\Pollution\model.h5')
 pd.set_option('display.max_columns', None)
 
 # Enter your API key here
-api_key = "c36b466e52b1c3d2e56d88cde5839302"
+api_key = "c36b466e52b1c3d2e56d88cde5xxxxxx"
 
 # Give city location
 lat = "28.6667"
