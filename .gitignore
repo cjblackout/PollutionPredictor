@@ -1,0 +1,13 @@
+pollutionenv/
+.env
+city_day.csv
+city_hour.csv
+station_day.csv
+station_hour.csv
+stations.csv
+dataset_x.csv
+delhi.csv
+__pycache__/
+app.py
+*.csv
+PyWhatKit_DB.txt
